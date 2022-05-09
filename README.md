@@ -14,6 +14,4 @@ rate when detecting the edibility of a mushroom?
 make sense, and what are some methods to accomplish this?
 6. When all features are categorical, does outlier detection make sense, and what are some
 effective outlier detection techniques?
-7. When all features are categorical, what are some effective dimensionality reduction tech-
-niques?
-5
+7. When all features are categorical, what are some effective dimensionality reduction techniques?
